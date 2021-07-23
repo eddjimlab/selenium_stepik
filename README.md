@@ -1,3 +1,3 @@
 # selenium_stepik
 
-add som text
+add link to stepik "https://stepik.org/lesson/187065/step/11?unit=161976"
